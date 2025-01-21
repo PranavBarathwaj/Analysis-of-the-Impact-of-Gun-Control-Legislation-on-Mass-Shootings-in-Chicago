@@ -9,3 +9,6 @@ ratios and seasonal variations transforming notably during the pandemic period. 
 interventions, we observed concerning displacement effects, including increases in gang-related activities and shifts in incident locations. 
 These results suggest that successful gun violence prevention requires a combination of comprehensive administrative frameworks and 
 targeted enforcement measures, with careful attention to implementation timing and potential adaptive responses.
+
+The code for the Analysis is in Illinois.ipynb
+The Final Paper is in Final Paper.pdf
